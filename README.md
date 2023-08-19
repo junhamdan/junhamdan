@@ -1,6 +1,5 @@
 # Halo semua! 
-Perkenalkan nama saya **Junior Hamdan Nasution**.\
-Saya seorang **Web Developer**
+
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/junior-hamdan-nasution/)ku ya.
 
 
